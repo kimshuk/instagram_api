@@ -1,0 +1,15 @@
+.insta_feed {
+    list-style: none;
+}
+
+.insta_feed li {
+    float: left;
+    width: 306px;
+    height: 306px;
+    margin: 10px;
+}
+
+.insta_feed li img {
+    max-width: 100%;
+    max-height: 100%;
+}
